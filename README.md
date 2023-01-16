@@ -14,4 +14,4 @@ Input project path: /Users/userX/PycharmProjects/ProjectScanner
 
 Then you can see graph with connections of files in your project. It helps to you for refactoring your project architecture!
 
-![img.png](img.png)
+![img_1.png](img_1.png)
