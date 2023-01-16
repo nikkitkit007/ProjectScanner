@@ -7,7 +7,7 @@ poetry install
 poetry shell
 ```
 
-After running **scanner/main.py** you input project for scan. Example:
+After running **app.py** you input project for scan. Example:
 ``
 Input project path: /Users/userX/PycharmProjects/ProjectScanner
 ``

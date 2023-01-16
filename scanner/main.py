@@ -18,8 +18,7 @@ def data_to_graph(data: list, weight: bool = True) -> list[tuple]:
 # a = "p1/p2/p3/p4"
 # b = "p1/p2/b1/b2/b3"
 
-
-if __name__ == "__main__":
+def main():
     project_path = input("Input project path: ")
 
     directory = Directory(project_path)
